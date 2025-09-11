@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@epi/esprima": "5.0.0",
-    "static-eval": "2.0.2",
+    "static-eval": "2.1.1",
     "underscore": "1.7.0"
   },
   "browser": "./jsonpath.js",
